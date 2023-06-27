@@ -68,7 +68,6 @@ body {
     position: absolute;
     bottom: -5px;
     right: 0;
-    transition: 0.2s all ease-in-out;
 }
 
 .header__nav__menu__link a:hover:after {
